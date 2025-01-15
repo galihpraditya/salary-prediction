@@ -1,6 +1,6 @@
 # Salary Prediction Using Supervised Regression  
 
-##**Project Portfolio: Machine Learning Regression Models**  
+## **Project Portfolio: Machine Learning Regression Models**  
 This project focuses on predicting salaries based on years of experience using three supervised machine learning models:  
 1. **Linear Regression**  
 2. **Decision Tree Regression**  
