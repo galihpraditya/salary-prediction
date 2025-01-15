@@ -6,10 +6,7 @@ This project focuses on predicting salaries based on years of experience using t
 2. **Decision Tree Regression**  
 3. **Random Forest Regression**  
 
-The dataset used contains information about employees’ years of experience and their corresponding salaries. The goal is to understand the relationship between years of experience and salary while identifying the most efficient regression model for accurate predictions.  
-
-The dataset can be accessed from the following link:  
-[Salary Dataset](https://drive.google.com/file/d/1F0eScJlePaZkQJxBNCJHhU6p3pE7LHFO/view?usp=sharing)  
+The dataset used contains information about employees’ years of experience and their corresponding salaries. The goal is to understand the relationship between years of experience and salary while identifying the most efficient regression model for accurate predictions. The dataset can be accessed from the following link: [Salary Dataset](https://drive.google.com/file/d/1F0eScJlePaZkQJxBNCJHhU6p3pE7LHFO/view?usp=sharing)  
 
 
 **Goals:**  
