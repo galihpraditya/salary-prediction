@@ -1,23 +1,23 @@
 # Salary Prediction Using Supervised Regression  
 
-## **Project Portfolio: Machine Learning Regression Models**  
+**Project Portfolio: Machine Learning Regression Models**  
 This project focuses on predicting salaries based on years of experience using three supervised machine learning models:  
 1. **Linear Regression**  
 2. **Decision Tree Regression**  
 3. **Random Forest Regression**  
 
-The dataset used in this project contains information about employees’ years of experience and corresponding salaries. This dataset helps in analyzing the relationship between experience and salary, enabling us to create predictive models for better decision-making in HR and recruitment strategies.  
+I'm using The dataset from this link : https://drive.google.com/file/d/1F0eScJlePaZkQJxBNCJHhU6p3pE7LHFO/view?usp=sharing
 
 ---
 
-## **Goals:**  
+**Goals:**  
 - To predict salaries based on years of experience using regression models.  
 - To compare the performance of different models (Linear Regression, Decision Tree, and Random Forest).  
 - To identify the best-performing model using evaluation metrics like Mean Squared Error (MSE) and R² Score.  
 
 ---
 
-## **Insights:**  
+**Insights:**  
 - **Linear Regression**: Provides a straightforward approach but struggles with capturing complex patterns in data.  
 - **Decision Tree Regression**: Handles non-linear data well but can overfit smaller datasets.  
 - **Random Forest Regression**: Outperformed other models with the **lowest MSE** and the **highest R² score**, making it the most efficient for salary prediction in this analysis.  
@@ -25,7 +25,7 @@ The dataset used in this project contains information about employees’ years o
 
 ---
 
-## **Advice:**  
+**Advice:**  
 1. Consider adding more features (e.g., job role, industry type, location) to improve model accuracy.  
 2. Hyperparameter tuning in Random Forest could further enhance prediction performance.  
 3. Utilize larger datasets for better generalization of models.  
